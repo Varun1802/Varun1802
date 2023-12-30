@@ -18,15 +18,15 @@
 
 ###
 
-<h1 align="center">Hey 👋<br>My name is Sanjay Kumar</h1>
+<h1 align="center">Hey 👋<br>My name is Varun Choudhary</h1>
 
 ###
 
-<h3 align="left">My name is Sanjay Kumar. I am a final year student of B.Tech in CSE from JECRC University and I aspire to be a Software Engineer. I have a strong hold on C++ Programming Language and DSA.<br>:)</h3>
+<h3 align="left">My name is Varun Choudhary. I am a final year student of B.Tech in CSE from JECRC University and I aspire to be a Software Engineer. I have a strong hold on C++ Programming Language and DSA.<br>:)</h3>
 
 ###
 
-<p align="left">I'm  basically from Alwar, Rajasthan<br><br>- 🔭 I’m working as Intern at Persistent Systems<br>- 📚 I'm currently persuing my B.tech IN CSE from JECRC University</p>
+<p align="left">I'm  basically from Jaipur, Rajasthan<br><br>- 📚 I'm currently persuing my B.tech IN CSE from JECRC University</p>
 
 ###
 
