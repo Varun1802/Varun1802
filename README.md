@@ -64,7 +64,7 @@
 ###
 
 <div align="center">
-  <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=varun1802&theme=dark&hide_border=true" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=varun1802&theme=dark&hide_border=true" height="220" alt="streak graph"  />
 </div>
 
 ###
